@@ -1,0 +1,11 @@
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula63-Exer2-Locacao\bin\Debug\WF-Aula63-Exer2-Locacao.exe.config
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula63-Exer2-Locacao\bin\Debug\WF-Aula63-Exer2-Locacao.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula63-Exer2-Locacao\bin\Debug\WF-Aula63-Exer2-Locacao.pdb
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula63-Exer2-Locacao\obj\Debug\WF-Aula63-Exer2-Locacao.csproj.AssemblyReference.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula63-Exer2-Locacao\obj\Debug\WF-Aula63-Exer2-Locacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula63-Exer2-Locacao\obj\Debug\WF_Aula63_Exer2_Locacao.Form1.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula63-Exer2-Locacao\obj\Debug\WF_Aula63_Exer2_Locacao.Properties.Resources.resources
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula63-Exer2-Locacao\obj\Debug\WF-Aula63-Exer2-Locacao.csproj.GenerateResource.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula63-Exer2-Locacao\obj\Debug\WF-Aula63-Exer2-Locacao.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula63-Exer2-Locacao\obj\Debug\WF-Aula63-Exer2-Locacao.exe
+C:\Users\Jhonatta\Desktop\Cast .Net\CS\'CSharpIntermediario\WF-Aula63-Exer2-Locacao\obj\Debug\WF-Aula63-Exer2-Locacao.pdb
